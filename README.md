@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final year Informatics student at **Universitas Andalas** (Semester 7).
+- 🎓 Fresh Graduate from Informatics  at **Universitas Andalas** (GPA 3.82/4.00).
 - 🚀 Passionate in **AI, Data Science, Web & Mobile Development, and UI/UX**.
 - 📊 Experienced in **ML/DL projects, predictive analytics, geospatial visualization, and system design**.
 - 🌍 Actively involved in organizations and research, including **PKM National Finalist**.
